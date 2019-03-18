@@ -59,8 +59,9 @@
   <name>addSpaceSkin</name>
   <description>This is the custom module (addSpaceSkin) for running on a Digital Experience Manager server.</description>
   <scm>
-    <connection>scm:dummy:uri</connection>
-    <developerConnection>scm:dummy:uri</developerConnection>
+    <connection>scm:git:git@github.com:pvollenweider/addspaceskin.git</connection>
+    <developerConnection>scm:git:git@github.com:pvollenweider/addspaceskin.git</developerConnection>
+    <url>https://github.com/pvollenweider/addspaceskin</url>
   </scm>
   <properties>
     <jahia-depends>default,skins</jahia-depends>

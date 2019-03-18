@@ -53,7 +53,7 @@
   </parent>
   <groupId>org.jahia.modules</groupId>
   <artifactId>addspaceskin</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>bundle</packaging>
   <name>addSpaceSkin</name>
   <description>This is the custom module (addSpaceSkin) for running on a Digital Experience Manager server.</description>
@@ -61,7 +61,7 @@
     <connection>scm:git:git@github.com:pvollenweider/addspaceskin.git</connection>
     <developerConnection>scm:git:git@github.com:pvollenweider/addspaceskin.git</developerConnection>
     <url>https://github.com/pvollenweider/addspaceskin</url>
-    <tag>addspaceskin-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <properties>
     <jahia-depends>default,skins</jahia-depends>
